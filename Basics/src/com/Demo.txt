@@ -1,0 +1,486 @@
+NAME :
+Qualification: BE/ ME/ (CS/IS.mech,Civl )
+place 
+College
+
+
+Topics 
+		java Full stack 
+
+		Software : 
+
+				1 ) JDK
+				2 ) Eclips
+
+				web developement: 
+						Servlet / jsp :
+				3 )  TOmcat server 8/9/10 version : just download no need of installation 
+
+				4 ) STS  
+				5 ) postman: api testing 
+
+
+				6 ) Vs code 
+				7 ) node JS (For Angular )
+				8 ) Git
+
+
+				9) mysql : data Base
+ 
+				 
+		
+
+>notepad Demo.java
+
+
+
+
+
+
+
+			Why java only ?
+						Why not python / .net /
+						c / cpp / php/asp/jsp.....
+
+
+
+
+
+
+
+			Java 
+
+				Support microServices 
+				Platform indepedent 
+				OOps
+
+
+			Python /.net 
+				
+
+
+int a =10012345678976;
+int b = 20032456879087
+int sum=a+b;
+==
+sum
+			software .....
+						c/ cPP/ java/pythpon/ .net/cobla
+						total no of prog : 2022
+
+						300 + 
+							Binary / machin level lang 
+
+
+
+
+
+
+
+int a =10;			0101011100101		: 15 
+int b = 20;			1110101010101
+int sum=a+b;
+==
+res					10101010101
+
+
+
+human :
+		Asssembly levle lang : 
+ax 10 
+bx 20 
+load ax,bx 
+add ax, bx 
+sub mul 
+div :
+		sin 
+		cos
+		tan
+		pow
+		sqr
+		
+
+						assebmly level lang 
+						binay lang 
+
+						cobal 
+						pascal					basic lang : 		B lang 
+						potron 
+						etc....!
+
+
+
+						C : 						C ++							C#/
+																			Java 
+																			Python 
+					 
+							date type 					popl+ oops
+							funct 						Inheriatce
+							struct 						polymorphism
+							union 						Abstraction
+							string 						Encupultion
+
+						SOPL 
+						FoPL
+						Popl
+			
+
+=============================================
+
+	assebmly level lang 
+					
+											OOPL								OOPL
+											(Platform Depedent )					(Indepedent)
+
+											C ++								C#/
+																			Java 
+																			Python 
+					 
+						
+
+
+
+
+
+C# 		:		paid
+
+ 
+java		:		Free		: security : 10 line
+Python 	:		Free				: 50-100 lines 
+
+					phone pay 
+									performance 
+									Security 
+
+
+				1000 
+					5 sec 
+					10 sec 		: hjigh secured 
+
+
+bank ing :
+security levels : 
+				built on top of JAVA 
+							
+
+Secutiy
+inbult : ready made lib
+Oops
+
+topics : 
+		15 days 
+				core java 
+					oops
+					exception handing 
+					MultyThreading 
+					Colectons 
+						some other basics : object 
+
+					JDBC 
+					servlet 
+					jsp 
+							mysql 
+
+					spring 
+					hibenrate 
+					mvc 
+					Spring boot with web services 
+					HTML
+					CSS
+					Bootstracp 
+					javaScript 
+					type script 
+					Angualr 
+						some basics about Devops 
+						UML 
+					
+
+
+
+java Basics 
+
+
+		Data Types 
+		Statemts : 
+				if, else , switch, 
+		loop : 
+				for , while , do while 
+		jump :
+				return , break, continue 
+
+
+		operators : 
+			Uniary 
+				a=10;
+					a++
+					a--
+					++a;
+					--a;
+			binary operator 
+				a=10;
+				b-20:
+				
+						a+b,a-b,a*b : arethamatic operatorss
+						a<b, a>b> a==b,a<=b: conditional 
+
+						a=10 : assengmment 
+						a==10 && b==20: logical operators 
+
+						bitwise opertaors 
+			tarniary operator 
+					a<=b : a ? b 
+										REVISE ALL THIS IN 10 Minuts 
+
+
+				college days :exam 
+				project : 
+
+
+class & Object 
+
+OOPS: 
+		Inheritance
+		PolyMorphism 
+					comiplet time 
+					run 
+							overloding . over rideinh 
+		Abstraction 
+					hide implemention 
+		Encupulation 
+					hide the data 
+
+
+
+
+
+
+read the choice from the user 
+
+
+
+1) clerk 
+		id , name age 
+		salary = 25000;
+		desig="Clerk";
+
+				id 
+				name
+				age 
+				salary
+				desig 
+
+
+2) Developer
+		id , name age 
+		salary = 45000;
+		desig="Developer";
+3) Tester
+		id , name age 
+		salary = 35000;
+		desig="Tester";
+4 ) manager 
+		id , name age 
+		salary = 55000;
+		desig="Manager";
+
+
+
+
+
+
+
+					OOps : 
+							class : its is just a blueprint of object or coleections of object 
+							 and Object 
+							Inheritance : aqur the property from parent to child : super or sub 
+									types :
+											single level 
+											multy level
+											hirirchycal   
+											muiltyple   : not support in terms of class  
+											hyberd 	: not support in terms of class  
+														Super 
+														this
+														extends 
+							polymorphsm : 
+											same method name but diff behiveror
+											draw():    circle, reactange , square 
+													2pI r    , l * b ,   l
+
+											boy : 
+														school: student
+														Home : child 
+														plyagroud : friends 
+											2 ways : 
+													compile time poly morphism // static binding  // early binding 
+														 ex: overloding 
+																		method over loding 
+																		Constructor over loding 
+															
+													run time poly morphism  // dynimic binding  // late binding 
+														ex : over riding 
+																		method over riding 
+																		Constructor over rding : not possible 
+	  						Abstraction : 
+												hiding the implementation 					
+
+														only show the requried funcunality to the end user 
+										2 ways : 
+												abstract class : 0-100% 
+												interface:	    : 100% 
+									
+							Encupulation
+										hiding the data member into single unit : 
+										make all the valriabler private 
+										use the setttets and getters 
+
+
+Oops :
+	Class and Object 
+	Inheritance 
+	polymorhism 
+	Abstraction 
+	Encupulation
+
+
+Not access modifer 
+
+	Abstract 
+	static 
+	final
+
+Access modifier s
+
+	public 
+	private 
+	protected 
+	default
+
+Exception Handling ? 
+					while executing the program if somthong went wrong in our application , 
+					somebody is requried to hangle all the things 
+					Excetion handling 
+	
+		checked Exception 						Uncheckexception
+		Compile time Exception					RunTimeReception
+
+		FIleNotFound 						Inputmissmthc,
+										Arhemantioc	
+										NullPointerException
+										ArrayIndexOutOfBoundsException
+										StringIndexOutOfBoundsException
+
+		SQLExprion 
+		ServletException
+
+				how to handle the exception ? 
+					using 
+							1) Try and catch, finally
+							2) Throws 
+		Final 							Finally
+		1 )keyword							block
+
+		2 )
+		var: we cant reassign 
+		method : no overriden 
+		class : no inheritance 				it will execute at the end always :
+										if i want to close the connection 
+
+
+				 
+
+
+================================
+
+Basics of java 
+
+
+Oops :
+	Class and Object 
+	Inheritance 
+	polymorhism 
+	Abstraction 
+	Encupulation
+
+
+Not access modifer 
+
+	Abstract 
+	static 
+	final
+
+Access modifier s
+
+	public 
+	private 
+	protected 
+	default
+Exception Handling 
+
+	cheked Exception / Unchecked Exception  
+	Try chtch , finally , Throw 
+
+Muilty Threading....!
+
+					muiltple threds can execute at a time 
+					extends Thread
+					call the start method
+					override the run method
+
+					Some methods 
+
+					run 	
+					start
+					sleep
+					suspend
+					resume
+					stop
+					isAlive
+					Thread.currentThred
+					setName
+					getName
+					setPreriorty
+					getpriority 
+
+
+					wait 
+					notify 
+					notifyAll
+					join 
+
+
+
+
+
+
+
+
+
+Array 
+
+Collections :
+JDBC
+
+
+WebApplication 
+		Servlet 
+		JSP 
+				MYSQL : installed ? 
+
+			
+
+
+
+
+
+
+				
+
+
+
+
+
+
+
+
+
